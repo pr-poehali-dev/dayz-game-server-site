@@ -2,7 +2,6 @@ import Icon from "@/components/ui/icon";
 
 const ServerInfo = () => {
   const serverStats = [
-    { label: "Игроков онлайн", value: "47/80", icon: "Users" },
     { label: "Время рестарта", value: "4 часа", icon: "Clock" },
     { label: "Режим", value: "1PP PVP", icon: "Eye" },
     { label: "Сложность", value: "Хардкор", icon: "Zap" },
